@@ -1,0 +1,6 @@
+selector{
+    property:value;
+    .para{
+    color:red
+    }
+}
